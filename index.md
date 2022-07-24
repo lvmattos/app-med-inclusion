@@ -10,9 +10,5 @@ O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O L
 | - | -- |
 | Dica 1 | Verifique sempre a validade. |
 | Dica 2 | Em caso de reações adversas, um médico ou serviço de saúde deve ser procurado. O uso momentâneo ou contínuo de outros medicamentos também deve ser comunicado. |
-| Dica 3 | Descrição dica 3 |
-| Dica 4 | Descrição dica 4 |
-
-
 
 <!-- | TITULO | DESCRIÇÃO | -->
